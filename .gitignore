@@ -1,0 +1,5 @@
+*.csv
+*.xlsx
+*.pdf
+!DATA/*.csv
+*.log
